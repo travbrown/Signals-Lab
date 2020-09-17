@@ -1,2 +1,2 @@
-signals: signal.c
-	gcc signal.c -o signalab 
+main: signal.c
+	gcc signal.c -o main 
